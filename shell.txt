@@ -1,0 +1,5 @@
+Change the default shell to Bash:
+chsh -s /bin/bash
+
+Change the default shell to Zsh:
+chsh -s /bin/zsh
